@@ -7,9 +7,28 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: janey2018
 language: en
 timezone: ''
+
+# 新增hexo-generator-searchdb
+search:
+  path: search.xml
+  field: post
+  format: html
+
+
+# 新增用于生成 RSS 订阅
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: " "
+  order_by: -date
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -105,3 +124,4 @@ deploy:
   type: git
   repo: https://github.com/janey2018/janey2018.github.io.git
   branch: master
+

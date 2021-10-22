@@ -1,38 +1,50 @@
 ---
-title: Hello World
+title: Ayer中文说明
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。
 
-## Quick Start
+## 安装
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
+### 方法一：
 
 ``` bash
-$ hexo server
+npm i hexo-theme-ayer -S
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+### 主题内容：根目录 _config.ayer.yml
 
-### Generate static files
+
+-----
+
+
+### 方法二：
 
 ``` bash
-$ hexo generate
+git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### 主题配置：根目录 _config.yml
 
 ``` bash
-$ hexo deploy
+theme: ayer
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+----
+
+### 新建侧边：分类
+
+``` bash
+hexo new page categories
+```
+然后将以下复制到 /source/categories/index.md 文件
+
+``` bash
+title: categories
+type: "categories"
+layout: "categories"
+```
+
+----
+## 问题
+http://localhost:4000/search.xml 404 (Not Found)
