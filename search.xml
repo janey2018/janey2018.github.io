@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Ayer中文说明</title>
+    <url>/2021/10/22/hello-world/</url>
+    <content><![CDATA[<p>Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。</p>
+<span id="more"></span>
+
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-ayer -S</span><br></pre></td></tr></table></figure>
+
+<h3 id="主题内容：根目录-config-ayer-yml"><a href="#主题内容：根目录-config-ayer-yml" class="headerlink" title="主题内容：根目录 _config.ayer.yml"></a>主题内容：根目录 _config.ayer.yml</h3><hr>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
+
+
+<h3 id="主题配置：根目录-config-yml"><a href="#主题配置：根目录-config-yml" class="headerlink" title="主题配置：根目录 _config.yml"></a>主题配置：根目录 _config.yml</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">theme: ayer</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="新建侧边：分类"><a href="#新建侧边：分类" class="headerlink" title="新建侧边：分类"></a>新建侧边：分类</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
+<p>然后将以下复制到 /source/categories/index.md 文件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">title: categories</span><br><span class="line"><span class="built_in">type</span>: <span class="string">&quot;categories&quot;</span></span><br><span class="line">layout: <span class="string">&quot;categories&quot;</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><a href="http://localhost:4000/search.xml">http://localhost:4000/search.xml</a> 404 (Not Found)</p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>markdown</title>
     <url>/2021/10/25/markdown/</url>
     <content><![CDATA[<p>Markdown 是一种轻量级标记语言。<br>Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。</p>
@@ -61,35 +90,6 @@
       <tags>
         <tag>技术</tag>
         <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Ayer中文说明</title>
-    <url>/2021/10/22/hello-world/</url>
-    <content><![CDATA[<p>Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。</p>
-<span id="more"></span>
-
-<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-ayer -S</span><br></pre></td></tr></table></figure>
-
-<h3 id="主题内容：根目录-config-ayer-yml"><a href="#主题内容：根目录-config-ayer-yml" class="headerlink" title="主题内容：根目录 _config.ayer.yml"></a>主题内容：根目录 _config.ayer.yml</h3><hr>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
-
-
-<h3 id="主题配置：根目录-config-yml"><a href="#主题配置：根目录-config-yml" class="headerlink" title="主题配置：根目录 _config.yml"></a>主题配置：根目录 _config.yml</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">theme: ayer</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h3 id="新建侧边：分类"><a href="#新建侧边：分类" class="headerlink" title="新建侧边：分类"></a>新建侧边：分类</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
-<p>然后将以下复制到 /source/categories/index.md 文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">title: categories</span><br><span class="line"><span class="built_in">type</span>: <span class="string">&quot;categories&quot;</span></span><br><span class="line">layout: <span class="string">&quot;categories&quot;</span></span><br></pre></td></tr></table></figure>
-
-<hr>
-<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><a href="http://localhost:4000/search.xml">http://localhost:4000/search.xml</a> 404 (Not Found)</p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
