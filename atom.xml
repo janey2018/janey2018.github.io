@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://janey2018.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-10-25T07:27:21.359Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://janey2018.github.io/"/>
+  <updated>2021-10-25T08:43:44.937Z</updated>
+  <id>https://janey2018.github.io/</id>
   
   <author>
     <name>janey2018</name>
@@ -18,48 +18,43 @@
   
   <entry>
     <title>markdown</title>
-    <link href="http://example.com/2021/10/25/markdown/"/>
-    <id>http://example.com/2021/10/25/markdown/</id>
+    <link href="https://janey2018.github.io/2021/10/25/markdown/"/>
+    <id>https://janey2018.github.io/2021/10/25/markdown/</id>
     <published>2021-10-25T06:04:57.000Z</published>
-    <updated>2021-10-25T07:27:21.359Z</updated>
+    <updated>2021-10-25T08:43:44.937Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;标题：&quot;&gt;&lt;a href=&quot;#标题：&quot; class=&quot;headerlink&quot; title=&quot;标题：&quot;&gt;&lt;/a&gt;标题：&lt;/h2&gt;&lt;!-- 一级标题 --&gt;
-&lt;!-- ================= --&gt;
-
-&lt;!-- 二级标题 --&gt;
-&lt;!--</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Markdown 是一种轻量级标记语言。&lt;br&gt;Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。&lt;/p&gt;</summary>
     
     
     
+    <category term="技术" scheme="https://janey2018.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="markdown" scheme="https://janey2018.github.io/categories/%E6%8A%80%E6%9C%AF/markdown/"/>
+    
+    
+    <category term="技术" scheme="https://janey2018.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="markdown" scheme="https://janey2018.github.io/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>Ayer中文说明</title>
-    <link href="http://example.com/2021/10/22/hello-world/"/>
-    <id>http://example.com/2021/10/22/hello-world/</id>
+    <link href="https://janey2018.github.io/2021/10/22/hello-world/"/>
+    <id>https://janey2018.github.io/2021/10/22/hello-world/</id>
     <published>2021-10-22T08:27:40.577Z</published>
-    <updated>2021-10-22T08:50:27.664Z</updated>
+    <updated>2021-10-25T08:49:11.242Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。&lt;/p&gt;
-&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;h3 id=&quot;方法一：&quot;&gt;&lt;a href=&quot;#方法一：&quot;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。&lt;/p&gt;</summary>
     
     
     
+    <category term="hexo" scheme="https://janey2018.github.io/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://janey2018.github.io/tags/hexo/"/>
     
   </entry>
   
