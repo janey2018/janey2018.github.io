@@ -4,6 +4,11 @@ date: 2021-10-25 14:04:57
 tags:
 ---
 
+Markdown 是一种轻量级标记语言。
+Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。
+
+<!--more-->
+
 ## 标题：
 
 <!-- 一级标题 -->
