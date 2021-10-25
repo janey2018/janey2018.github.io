@@ -1,5 +1,8 @@
 ---
 title: Ayer中文说明
+categories: hexo
+tags: ["hexo"]
+top: 1
 ---
 
 Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。

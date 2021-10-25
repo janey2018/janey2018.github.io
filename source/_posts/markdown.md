@@ -1,7 +1,12 @@
 ---
 title: markdown
 date: 2021-10-25 14:04:57
-tags:
+tags: 
+    - 技术
+    - markdown
+categories: 
+    - 技术
+    - markdown
 ---
 
 Markdown 是一种轻量级标记语言。
