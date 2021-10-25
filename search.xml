@@ -21,4 +21,56 @@
 <h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><a href="http://localhost:4000/search.xml">http://localhost:4000/search.xml</a> 404 (Not Found)</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>markdown</title>
+    <url>/2021/10/25/markdown/</url>
+    <content><![CDATA[<h2 id="标题："><a href="#标题：" class="headerlink" title="标题："></a>标题：</h2><!-- 一级标题 -->
+<!-- ================= -->
+
+<!-- 二级标题 -->
+<!-- ----------------- -->
+
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="字体："><a href="#字体：" class="headerlink" title="字体："></a>字体：</h2><p><em>斜体文本</em><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em></p>
+<p><em>斜体文本</em><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em></p>
+<h2 id="分割线："><a href="#分割线：" class="headerlink" title="分割线："></a>分割线：</h2><hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<h2 id="删除线："><a href="#删除线：" class="headerlink" title="删除线："></a>删除线：</h2><p><del>BAIDU.COM</del></p>
+<h2 id="下划线："><a href="#下划线：" class="headerlink" title="下划线："></a>下划线：</h2><p><u>带下划线文本</u></p>
+<h2 id="列表："><a href="#列表：" class="headerlink" title="列表："></a>列表：</h2><p>无序</p>
+<ul>
+<li>第一项</li>
+</ul>
+<ul>
+<li>第二项</li>
+</ul>
+<ul>
+<li>第三项</li>
+</ul>
+<p>有序</p>
+<ol>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ol>
+<h2 id="区块："><a href="#区块：" class="headerlink" title="区块："></a>区块：</h2><blockquote>
+<p>最外层</p>
+<blockquote>
+<p>第一层嵌套</p>
+<blockquote>
+<p>第二层嵌套</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="代码块："><a href="#代码块：" class="headerlink" title="代码块："></a>代码块：</h2><pre><code>    hello world
+</code></pre>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hello world</span><br></pre></td></tr></table></figure>
+
+
+<h2 id="链接："><a href="#链接：" class="headerlink" title="链接："></a>链接：</h2><p>链接1 <a href="https://www.runoob.com/">菜鸟教程</a><br>链接2 <a href="https://www.runoob.com/">https://www.runoob.com</a></p>
+<h2 id="图片："><a href="#图片：" class="headerlink" title="图片："></a>图片：</h2><p><img src="%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80" alt="alt 属性文本" title="可选标题"><br><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" title="RUNOOB"></p>
+<h4 id="typora-可以-画流程图、时序图-顺序图-、甘特图"><a href="#typora-可以-画流程图、时序图-顺序图-、甘特图" class="headerlink" title="typora 可以 画流程图、时序图(顺序图)、甘特图"></a>typora 可以 画流程图、时序图(顺序图)、甘特图</h4>]]></content>
+  </entry>
 </search>
