@@ -12,6 +12,9 @@ Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的
 ## 安装
 
 ### 方法一：
+> 如果是新安装本主题，安装完成后会在根目录生成一个`_config.ayer.yml`文件，直接编辑`_config.ayer.yml`文件进行配置即可。
+> 如果是主题升级，建议先把配置内容做备份，然后用`npm uninstall hexo-theme-ayer -S`先卸载主题，再执行下面命令重新安装。
+
 
 ``` bash
 npm i hexo-theme-ayer -S
@@ -24,6 +27,7 @@ npm i hexo-theme-ayer -S
 
 
 ### 方法二：
+> hexo < 5.0
 
 ``` bash
 git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer
