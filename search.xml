@@ -6,10 +6,16 @@
     <content><![CDATA[<p>Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。</p>
 <span id="more"></span>
 
-<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-ayer -S</span><br></pre></td></tr></table></figure>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><blockquote>
+<p>如果是新安装本主题，安装完成后会在根目录生成一个<code>_config.ayer.yml</code>文件，直接编辑<code>_config.ayer.yml</code>文件进行配置即可。<br>如果是主题升级，建议先把配置内容做备份，然后用<code>npm uninstall hexo-theme-ayer -S</code>先卸载主题，再执行下面命令重新安装。</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i hexo-theme-ayer -S</span><br></pre></td></tr></table></figure>
 
 <h3 id="主题内容：根目录-config-ayer-yml"><a href="#主题内容：根目录-config-ayer-yml" class="headerlink" title="主题内容：根目录 _config.ayer.yml"></a>主题内容：根目录 _config.ayer.yml</h3><hr>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><blockquote>
+<p>hexo &lt; 5.0</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure>
 
 
 <h3 id="主题配置：根目录-config-yml"><a href="#主题配置：根目录-config-yml" class="headerlink" title="主题配置：根目录 _config.yml"></a>主题配置：根目录 _config.yml</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">theme: ayer</span><br></pre></td></tr></table></figure>
@@ -41,7 +47,8 @@
 <!-- 二级标题 -->
 <!-- ----------------- -->
 
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="字体："><a href="#字体：" class="headerlink" title="字体："></a>字体：</h2><p><em>斜体文本</em><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em></p>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="字体："><a href="#字体：" class="headerlink" title="字体："></a>字体：</h2><p>文字中间穿插了英文标记<code>sign</code>的</p>
+<p><em>斜体文本</em><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em></p>
 <p><em>斜体文本</em><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em></p>
 <h2 id="分割线："><a href="#分割线：" class="headerlink" title="分割线："></a>分割线：</h2><hr>
 <hr>
@@ -90,6 +97,53 @@
       <tags>
         <tag>技术</tag>
         <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>npm-components</title>
+    <url>/2021/10/27/npm-components/</url>
+    <content><![CDATA[<p>安装使用自定义npm组件库。</p>
+<span id="more"></span>
+
+
+<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><h4 id="组件库1："><a href="#组件库1：" class="headerlink" title="组件库1："></a>组件库1：</h4><blockquote>
+<p>components_librarys_npms</p>
+</blockquote>
+<ul>
+<li><a href="https://www.npmjs.com/package/components_librarys_npms">访问地址</a></li>
+<li>适用于vue2</li>
+<li>rollup打包</li>
+<li>使用umd模块</li>
+<li>三级联动组件 Province</li>
+<li>加密解密(对称和非对称)组件 Encrypt</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i components_librarys_npms -S</span><br></pre></td></tr></table></figure>
+
+<h4 id="组件库2："><a href="#组件库2：" class="headerlink" title="组件库2："></a>组件库2：</h4><blockquote>
+<p>components_library_vue3</p>
+</blockquote>
+<ul>
+<li><a href="https://www.npmjs.com/package/components_library_vue3">访问地址</a></li>
+<li>适用于vue3</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i components_library_vue3 -S</span><br></pre></td></tr></table></figure>
+
+
+<h4 id="组件库3："><a href="#组件库3：" class="headerlink" title="组件库3："></a>组件库3：</h4><blockquote>
+<p>component-webpack-library</p>
+</blockquote>
+<ul>
+<li>适用于vue3</li>
+<li><a href="https://www.npmjs.com/package/component-webpack-library">访问地址</a></li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i component-webpack-library -S</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>技术</category>
+        <category>npm</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+        <tag>npm</tag>
       </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="https://janey2018.github.io/atom.xml" rel="self"/>
   
   <link href="https://janey2018.github.io/"/>
-  <updated>2021-10-25T08:43:44.937Z</updated>
+  <updated>2021-10-27T08:59:49.372Z</updated>
   <id>https://janey2018.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>npm-components</title>
+    <link href="https://janey2018.github.io/2021/10/27/npm-components/"/>
+    <id>https://janey2018.github.io/2021/10/27/npm-components/</id>
+    <published>2021-10-27T08:07:15.000Z</published>
+    <updated>2021-10-27T08:59:49.372Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;安装使用自定义npm组件库。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://janey2018.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="npm" scheme="https://janey2018.github.io/categories/%E6%8A%80%E6%9C%AF/npm/"/>
+    
+    
+    <category term="技术" scheme="https://janey2018.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="npm" scheme="https://janey2018.github.io/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markdown</title>
     <link href="https://janey2018.github.io/2021/10/25/markdown/"/>
     <id>https://janey2018.github.io/2021/10/25/markdown/</id>
     <published>2021-10-25T06:04:57.000Z</published>
-    <updated>2021-10-25T08:43:44.937Z</updated>
+    <updated>2021-10-27T09:18:06.987Z</updated>
     
     
     <summary type="html">&lt;p&gt;Markdown 是一种轻量级标记语言。&lt;br&gt;Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。&lt;/p&gt;</summary>
@@ -44,7 +67,7 @@
     <link href="https://janey2018.github.io/2021/10/22/hello-world/"/>
     <id>https://janey2018.github.io/2021/10/22/hello-world/</id>
     <published>2021-10-22T08:27:40.577Z</published>
-    <updated>2021-10-25T08:49:11.242Z</updated>
+    <updated>2021-10-27T09:14:24.858Z</updated>
     
     
     <summary type="html">&lt;p&gt;Ayer 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。&lt;/p&gt;</summary>
